@@ -1,0 +1,1 @@
+A python project that uses the MediaPipe and cv2 libraries to create a live model of your hands, after the model is made the model detects how amny fingers you have up vs how many you have down using key points on your fingers drawn diagram. Then based on the amount of fingers down the program will automatically lower or raise the computer volume
